@@ -9,7 +9,7 @@ $ apt install git
 $ apt install python2
 
 
-$ git clone  https://github.com/HradilSerhii/Weeman.git
+$ git clone  https://github.com/HRC303/weeman
 
 
 $ ls 
@@ -20,6 +20,6 @@ $ ls
 $ python2 weeman.py
 
 $ help
-$ set url https://yandex.ru
-$ set port 8080
-$ set action_url https://yandex.ru
+$ set url http://m.facebook.com
+$ set action_url http://m.facebook.com/login.php
+$ run
